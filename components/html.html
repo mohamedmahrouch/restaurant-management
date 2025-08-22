@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formulaire de vérification des stocks</title>
+</head>
+<body>
+    <h1>Formulaire de vérification des stocks :</h1>
+    <form action="Controleur_VerifierStock.php" method="post">
+        <label for="designation">Désignation Produit :</label>
+        <input type="text" id="designation" name="designation" value="RAM64" required><br><br>
+
+        <label for="quantite">Quantité commandée :</label>
+        <input type="number" id="quantite" name="quantite" value="10" required><br><br>
+
+        <input type="submit" value="Lancer la vérification">
+    </form>
+</body>
+</html>
