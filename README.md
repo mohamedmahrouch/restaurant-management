@@ -83,14 +83,3 @@ git clone https://github.com/mohamedmahrouch/restaurant-management.git
 - Validation et filtrage des entrées utilisateur
 - Sessions sécurisées
 
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-## Contact
-
-Pour toute question ou suggestion, n'hésitez pas à créer une issue ou à me contacter directement.
-
-## Contributeurs
-
-- Mohamed Mahrouch - Développeur principal
